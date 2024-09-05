@@ -1,0 +1,7 @@
+E7
+
+De asemenea at cand joaca echipa locala se aplica un discount de 10%.
+
+Daca joaca echipa nationala pe terenul respectiv
+se printeaza pe bilet un mesaj de sustinere a
+echipei nationale si nu a echipei locale.
